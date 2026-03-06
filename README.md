@@ -23,9 +23,9 @@ https://b23.tv/7NGd8O0
 
 ## 🚀 快速开始
 
-加密网页:[https://zsc41888.github.io/jiami](https://zsc41888.github.io/jiami) 立即使用
+加密网页:[https://zynsync.github.io/jiami](https://zynsync.github.io/jiami) 立即使用
 
-我的官网:[https://zsc41888.github.io/zscnb](https://zsc41888.github.io/zscnb) 
+我的官网:[https://zynsync.github.io/zscnb](https://zynsync.github.io/zscnb) 
 
 ## 🛠️ 使用说明
 
