@@ -41,7 +41,7 @@ https://b23.tv/7NGd8O0
 
 欢迎加入QQ交流群，共同讨论改进建议：
 
-[![加入QQ群](https://img.shields.io/badge/QQ群-1070356813-blue?style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=your_key_here&authKey=your_auth_key_here&group_code=1070356813)
+[![加入QQ群](https://img.shields.io/badge/QQ群-1070356813-blue?style=flat-square)](https://qun.qq.com/universal-share/share?ac=1&authKey=RYf3Y99cJGh5kDQdJAycyH%2FgbelJTWEXbDgR5W64oznwPMPQF%2B7rJXASxwEvu9r5&busi_data=eyJncm91cENvZGUiOiIxMDcwMzU2ODEzIiwidG9rZW4iOiJmbDhXSnczQWthUmtWWFcrUU90dVllZWxaR1doc3p0TzFmeXh1a0VsbW1UTFhRU2JoZXN3ZjNVczBYNm1vRTdMIiwidWluIjoiMzc4Mzc2MjI5NyJ9&data=6ioUYikR7A53mY7UY1OBuS-3cgQW_dae7xpdprGvv9dIxCLihsCGFCksPCWyz9DxQ0xDOIFji1X2sYMu4cc8SA&svctype=4&tempid=h5_group_info)
 
 ---
 **声明**：本工具由B站小UP主
